@@ -86,7 +86,6 @@ p{
 .hero-text {
     margin-left: 80px;
     margin-bottom: 200px;
-    color: #ff7f50;
 }
 
 
@@ -175,15 +174,10 @@ hr {
     color: #ef744b
 }
 
-.footer {
-    color: #ff7f50;
-}
-
 a {
     text-decoration: none;
     color: white;
 }
-
 
 .hamburger {
     display: none;
